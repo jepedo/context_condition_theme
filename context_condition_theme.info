@@ -1,0 +1,5 @@
+name = Context Condition Theme
+description = "Provides a simply way to create a conditional for themes to run you reactions off"
+dependencies[] = context
+package = Context
+core = "7.x"
